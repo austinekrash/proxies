@@ -1,5 +1,6 @@
 
 Note
+
 The script does not handle or log non-working proxies explicitly. 
 You may modify the except block in the extract function to include logging or handling of failed proxy checks.
 
